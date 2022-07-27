@@ -1,6 +1,6 @@
 # Link in bio for AlviDervishaj
 
-[Visit page.](https://links-alvi.vercel.app/)
+[Visit page.](https://alvi-links.vercel.app/)
 
 ![Preview](https://user-images.githubusercontent.com/58639728/181233854-08c74d75-0fcf-48a1-b84b-3bc69e72dc11.png)
 
